@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UtsabJs
-- 👀 I’m interested in React.js,Typescript,Python,django and django rest framework 
-- 🌱 I’m currently learning Typescript and django rest framework 
+- 👀 I’m interested in React.js,Typescript,Node.js,Nest.js
+- 🌱 I’m currently learning Typescript and Nest.js Framework 
 
 
 <!---
